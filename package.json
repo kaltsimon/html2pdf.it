@@ -13,6 +13,7 @@
   },
   "main": "./lib/app.js",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "compression": "^1.6.2",
     "express": "",
     "morgan": "^1.8.0",
